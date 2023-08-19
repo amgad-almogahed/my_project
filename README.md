@@ -1,4 +1,4 @@
 # my_project
 for my project
 
-## project # notes
+## project Notes
